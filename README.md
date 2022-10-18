@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="www.linkedin.com/in/enesyuksel7" target="blank">
-    <img align="center" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/linkedin_logo_icon_189225.png" alt="www.linkedin.com/in/enesyuksel7" height="30" width="40" />
+    <img align="center" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/linkedin_logo_icon_189225.png" alt="www.linkedin.com/in/enesyuksel7" height="40" width="40" />
   </a>
   <a href="https://www.hackerrank.com/enes_yksel7" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/480px-HackerRank_Icon-1000px.png" alt="enes_yksel7" height="30" width="40" />
