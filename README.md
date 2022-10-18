@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Enes</h1>
 <h3 align="center">Front-End and Back-End Technologies</h3>
 
-- 🔭 I’m currently working on **Virtual Reality and Flutter Mobile App**
-
 - 🌱 I’m currently learning **JavaScript and Deep Learning**
+
+- 🔭 I’m currently working on **Virtual Reality and Flutter Mobile App**
 
 - 📫 How to reach me **enes.yksel7@gmail.com**
 
@@ -13,7 +13,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/enesyuksel7" height="30" width="40" />
   </a>
   <a href="https://www.hackerrank.com/enes_yksel7" target="blank">
-    <img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank-4.svg" alt="enes_yksel7" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/480px-HackerRank_Icon-1000px.png" alt="enes_yksel7" height="30" width="40" />
   </a>
   <a href="https://instagram.com/enesyuksel7" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="enesyuksel7" height="30" width="40" />
