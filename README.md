@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript and Deep Learning**
 
-- 🔭 I’m currently working on **Virtual Reality and Flutter Mobile App**
+- 🔭 I’m currently working on **Virtual Reality and .NET App**
 
 - 📫 How to reach me **enes.yksel7@gmail.com**
 
