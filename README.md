@@ -37,6 +37,9 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
   </a>
+  <a href="https://www.microsoft.com/tr-tr/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-8.png" alt="mssql" width="40" height="40" />
+  </a>
   <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40" />
   </a>
@@ -44,7 +47,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
   </a>
   <a href="https://unity.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/5969/5969294.png" alt="unity" width="40" height="40" />
+    <img src="https://assets.stickpng.com/thumbs/62e131cb7fe3599fdd46ecb2.png" alt="unity" width="40" height="40" />
   </a>
   <a href="https://www.arduino.cc" target="_blank" rel="noreferrer">
     <img src="https://miro.medium.com/max/418/1*eYLvFjmi77iM_cjJTvRymg.png" alt="java" width="40" height="40" />
