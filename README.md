@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enes</h1>
-<h3 align="center">Front-End and Back-End Technologies</h3>
+<h3 align="center">Web Technologies & Back-End Developer</h3>
 
 - 🌱 I’m currently learning **JavaScript and Deep Learning**
 
