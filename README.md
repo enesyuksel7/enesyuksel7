@@ -25,14 +25,14 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+    <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png"           alt="javascript" width="40" height="40" />
   <a href="https://dotnet.microsoft.com" target="_blank" rel="noreferrer">
     <img src="https://dotnet.microsoft.com/static/images/redesign/social/square.png" alt="csharp" width="40" height="40" />
   </a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
   </a>
-  <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png"           alt="javascript" width="40" height="40" />
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
   </a>
