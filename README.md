@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Enes</h1>
 <h3 align="center">Web Developer</h3>
 
-- 🌱 I’m currently learning **JavaScript and Deep Learning**
+- 🌱 I’m currently learning **React JS and Django**
 
-- 🔭 I’m currently working on **Virtual Reality and .NET App**
+- 🔭 I’m currently working on **Virtual Reality and Learning**
 
 - 📫 How to reach me **enes.yksel7@gmail.com**
 
