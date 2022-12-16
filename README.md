@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React JS and Django**
 
-- 🔭 I’m currently working on **Virtual Reality and Learning**
+- 🔭 I’m currently working on **Virtual Reality and Deep Learning**
 
 - 📫 How to reach me **enes.yksel7@gmail.com**
 
