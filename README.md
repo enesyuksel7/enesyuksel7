@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Enes</h1>
-<h3 align="center">Mobile & Front-End Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **Flutter and Artificial Intelligence**
+- 🌱 I’m currently learning **Flutter and REST**
 
-- 🔭 I’m currently working on **Mobile Platforms and Machine Learning**
+- 🔭 I’m currently working on **Web Technologys and Mobile**
 
 - 📫 How to reach me **enes.yksel7@gmail.com**
 
