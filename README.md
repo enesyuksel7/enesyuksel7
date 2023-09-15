@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Enes</h1>
 <h3 align="center">Full Stack Developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=enesyuksel7&label=Profile%20views&color=0e75b6&style=flat" alt="enesyuksel7" /> </p>
+
 - 🌱 I’m currently learning **Flutter and REST**
 
 - 🔭 I’m currently working on **Web Technologys and Mobile**
@@ -64,3 +66,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enesyuksel7&show_icons=true&locale=en" alt="enesyuksel7" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enesyuksel7&" alt="enesyuksel7" /></p>
